@@ -1,7 +1,7 @@
 # Tessa Pierce
 # 4.24.2015
 
-"""Script to rename FastQ reads that were mistakently named "@no name" & split the interleaved files into 
+"""Script to rename FastQ reads that were mistakently named "@No name" & split the interleaved files into 
 separate paired files. Grabs barcode from filename.
 run via "python rename_fastq.py
 """
@@ -9,8 +9,7 @@ run via "python rename_fastq.py
 import sys, re, os, glob
 from optparse import OptionParser
 
-desc = """ Rename Matt's weird RAD-Seq files
-"""
+desc = """ Rename Matt's weird RAD-Seq files"""
 parser = OptionParser(description = desc)
 parser.add_option("--inDir", "--INDirectory", help = "path to all input files" , action="store", type="string", dest="inDir", default = '/Volumes/HARD_DRIVE/ddRAD1/')
 
@@ -20,7 +19,6 @@ os.chdir(opts.inDir)
 files = glob.glob("*.fastq") #list all fastq files in directory
 
 outPath = opts.inDir + '/paired'
-
 if not os.path.exists(outPath):
     os.makedirs(outPath)
 
