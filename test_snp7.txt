@@ -1,0 +1,50 @@
+contig	coordinate	coverage	refAllele	mostFreq	alteredRef?	base:freq
+SCN_mtDNA_nad2	1	935	A	A	False	A: 935
+SCN_mtDNA_nad2	2	939	T	T	False	T: 939
+SCN_mtDNA_nad2	3	2	T	T-1C	True	T-1C: 2
+SCN_mtDNA_nad2	5	970	T	T	False	T+1A: 1	T-1A: 1	T: 968
+SCN_mtDNA_nad2	6	1317	A	A	False	A: 1313	N: 3
+SCN_mtDNA_nad2	7	1553	A	A	False	A: 1548	C: 2	N: 3
+SCN_mtDNA_nad2	9	1720	A	A	False	A: 1717	C: 1	G: 1	N: 1
+SCN_mtDNA_nad2	10	1734	A	A	False	A: 1726	C: 4	G: 1	N: 3
+SCN_mtDNA_nad2	11	1966	A	A	False	A: 1960	A-1T: 1	C: 4	G: 1
+SCN_mtDNA_nad2	12	2046	T	T	False	C: 1	T: 2043	G: 1
+SCN_mtDNA_nad2	13	2101	T	T	False	T: 2099	G: 1	N: 1
+SCN_mtDNA_nad2	14	2105	T	T	False	C: 2	T: 2101	G: 1	N: 1
+SCN_mtDNA_nad2	15	2123	T	T	False	T+1A: 1	C: 1	T: 2116	G: 3	N: 2
+SCN_mtDNA_nad2	16	2149	A	A	False	A: 2145	C: 3	G: 1
+SCN_mtDNA_nad2	17	2188	T	T	False	A: 1	C: 2	T: 2183	N: 2
+SCN_mtDNA_nad2	18	2200	T	T	False	T: 2195	G: 1	N: 4
+SCN_mtDNA_nad2	19	2200	T	T	False	A: 1	T: 2197	N: 2
+SCN_mtDNA_nad2	20	2213	C	C	False	A: 2	C: 2208	G: 1	N: 2
+SCN_mtDNA_nad2	21	2264	T	T	False	T: 2260	G: 2	N: 2
+SCN_mtDNA_nad2	22	2285	C	C	False	C: 2281	T: 2	N: 2
+SCN_mtDNA_nad2	23	2297	T	T	False	C: 1	T: 2294	N: 2
+SCN_mtDNA_nad2	24	2301	T	T	False	A: 1	C: 3	T: 2292	N: 5
+SCN_mtDNA_nad2	25	2301	A	A	False	A: 2293	C: 5	G: 2	N: 1
+SCN_mtDNA_nad2	26	2496	G	G	False	A: 2	G: 2492	N: 2
+SCN_mtDNA_nad2	27	2545	G	G	False	C: 2	T: 2	G: 2540	N: 1
+SCN_mtDNA_nad2	28	2598	G	G	False	G: 2596	N: 2
+SCN_mtDNA_nad2	29	2616	G	G	False	A: 1	C: 1	T: 2	G: 2612	N: 1
+SCN_mtDNA_nad2	30	2622	A	A	False	A: 2610	C: 4	T: 2	G: 3	N: 3
+SCN_mtDNA_nad2	31	2660	G	G	False	A: 2	C: 1	T: 1	G: 2653	N: 3
+SCN_mtDNA_nad2	32	2710	T	T	False	C: 1	T: 2704	G: 4	N: 1
+SCN_mtDNA_nad2	33	2767	G	G	False	G-1T: 2	T: 1	G: 2761	N: 3
+SCN_mtDNA_nad2	34	2780	T	T	False	A: 2	C: 4	T: 2770	G: 2
+SCN_mtDNA_nad2	35	2856	T	T	False	A: 1	C: 2	T: 2845	G: 3	N: 5
+SCN_mtDNA_nad2	36	2884	C	C	False	A: 1	C: 2871	T: 2	G: 4	N: 6
+SCN_mtDNA_nad2	37	2882	C	C	False	A: 4	C: 2867	T: 2	G: 4	N: 5
+SCN_mtDNA_nad2	38	2907	T	T	False	A: 1	T+1G: 1	T: 2902	G: 1	N: 2
+SCN_mtDNA_nad2	39	3020	G	G	False	A: 1	C: 1	T: 4	G: 3011	N: 3
+SCN_mtDNA_nad2	40	3051	T	T	False	A: 2	C: 2	T: 3039	G: 1	N: 7
+SCN_mtDNA_nad2	41	3109	T	T	False	A: 2	T-1G: 1	T: 3099	G: 2	N: 5
+SCN_mtDNA_nad2	42	3172	G	G	False	A: 1	C: 1	T: 3	G: 3164	N: 2
+SCN_mtDNA_nad2	43	3162	T	T	False	C: 4	T: 3153	G: 2	N: 3
+SCN_mtDNA_nad2	44	3302	T	T	False	A: 1	C: 1	T: 3297	G: 1	N: 2
+SCN_mtDNA_nad2	45	3818	C	C	False	A: 3	C: 3797	T: 6	G: 8	N: 4
+SCN_mtDNA_nad2	46	3905	T	T	False	A: 2	C: 1	T: 3902
+SCN_mtDNA_nad2	47	4042	T	T	False	A: 1	C: 1	T: 4030	G: 2	N: 8
+SCN_mtDNA_nad2	48	4088	G	G	False	A: 1	C: 2	T: 3	G: 4082
+SCN_mtDNA_nad2	49	4130	G	G	False	T: 4	G: 4124	N: 2
+SCN_mtDNA_nad2	50	4269	G	G	False	A: 3	C: 2	T: 2	G: 4260	N: 2
+SCN_mtDNA_nad2	1000	1654	A	A	False	A: 1654

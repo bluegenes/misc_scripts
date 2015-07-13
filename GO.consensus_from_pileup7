@@ -1,0 +1,18 @@
+# Tessa Pierce
+# 6.30.2015
+
+
+# -r = reference
+# -p = pileup
+# -d = coverage depth to call base # default = 8
+# -o = output fasta file
+# -b = use reference base if insufficient coverage depth
+#
+# access these options with: python consensus_from_pileup6.py --help
+
+#python /ni2/sio296/squid/code/consensus_from_pileup6.py -d DEPTH (i.e. 8) -r IN_FASTA_REFERENCE -p  -o OUT_FASTA -s OUT_SNP
+
+# test default:
+python consensus_from_pileup7.py -r test_mtDNA.fa -d 2 -p pile_with_no_coverage7 -o test_consensus7.fa -s test_snp7.txt &
+
+
